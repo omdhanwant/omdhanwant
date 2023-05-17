@@ -46,7 +46,9 @@ Here are the technologies and tools I'm proficient in:
 ## 😃 About Me
 I'm a curious learner who is always eager to explore new technologies and tools. I enjoy being challenged and thrive in collaborative environments that encourage innovation and growth. With a strong foundation in web technologies, I specialize in using the latest frameworks and libraries to build responsive and dynamic websites.
 
-# 📝 I write Javascript articles on [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://code-craft.hashnode.dev/)
+# 📝 I write Javascript articles on 
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://code-craft.hashnode.dev/)
+[![devdotto](https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/codecraftjs)
 - You can read about core javascript concepts. This will help you to prepare for your interviews and improve your programming skills. Also checkout javascript tips and trics series!
 
 ## 📬 I am available for -
@@ -57,4 +59,7 @@ I'm a curious learner who is always eager to explore new technologies and tools.
 - **Adding new features to your existing code base** 
 
 ## 🛸 Connect with me
-Feel free to email me at omdhanwant95@gmail.com. You can also connect with me on LinkedIn [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/om-dhanwant-197831104)
+Feel free to email me at omdhanwant95@gmail.com. You can also connect with me on 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/om-dhanwant-197831104)
+[![instagram](https://img.shields.io/badge/instagram-%E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codecraftjs)
+[![hashnode](https://img.shields.io/badge/hashnode-2962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://code-craft.hashnode.dev/)

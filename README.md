@@ -59,7 +59,7 @@ I'm a curious learner who is always eager to explore new technologies and tools.
 - **Adding new features to your existing code base** 
 
 ## 🛸 Connect with me
-Feel free to email me at omdhanwant95@gmail.com. You can also connect with me on 
+Feel free to email me at codecraftjs@gmail.com. You can also connect with me on 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/om-dhanwant-197831104)
 [![instagram](https://img.shields.io/badge/instagram-%E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codecraftjs)
 [![hashnode](https://img.shields.io/badge/hashnode-2962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://code-craft.hashnode.dev/)

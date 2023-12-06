@@ -2,18 +2,18 @@
 I am a Front End Developer with a passion for creating modern and engaging web applications.
 
 ## 🧰 Tech Stack
-Here are the technologies and tools I'm proficient in:
+<!-- Here are the technologies and tools I'm proficient in:-->
 
-- **Languages:** HTML5, CSS3, JavaScript, Typescript
+<!-- - **Languages:** HTML5, CSS3, JavaScript, Typescript
 - **Frameworks/Libraries:** React, Vue.js, Angular
 - **CSS Frameworks:** Bootstrap, Tailwind
 - **CSS Preprocessors:** Sass
 - **Version Control:** Git, GitHub, Bitbucket
 - **Build Tools:** Webpack
 - **Testing Frameworks:** Jasmine
-- **Interests:** Go, Python, NodeJs
+- **Interests:** Go, Python, NodeJs -->
 
-## Stacks
+<!--## Stacks -->
 <!-- <img src="https://user-images.githubusercontent.com/34024335/233063916-360ae8ef-b272-4388-9238-bf599d443180.png" width="150" height="150" />  <img src="https://user-images.githubusercontent.com/34024335/233063955-326b70a6-3c7e-4564-99e9-a30e5864612e.png" width="100" height="100" />  <img src="https://user-images.githubusercontent.com/34024335/233076668-26ed905e-4b7d-4270-9cac-e3d1f89f5f12.png" width="150" height="150" />  <img src="https://user-images.githubusercontent.com/34024335/233079637-1c5a12f3-2e03-4be1-b1b7-c2ca95d8b4e7.png" width="150" height="150" />   <img src="https://user-images.githubusercontent.com/34024335/233081409-d9d3675a-b0c4-438f-8868-0c8cd55e2152.png" width="150" height="150" />
 
 
@@ -38,7 +38,7 @@ Here are the technologies and tools I'm proficient in:
 ## Interests
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![nodedotjs](https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![nodejs](https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 
@@ -63,3 +63,4 @@ Feel free to email me at codecraftjs@gmail.com. You can also connect with me on
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/om-dhanwant-197831104)
 [![instagram](https://img.shields.io/badge/instagram-%E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codecraftjs)
 [![hashnode](https://img.shields.io/badge/hashnode-2962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://code-craft.hashnode.dev/)
+[![devdotto](https://img.shields.io/badge/devdotto-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/codecraftjs)
